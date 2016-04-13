@@ -1,2 +1,2 @@
 # Java
-Practice Exercises
+Programming Exercises from Introduction to Java Programming 
